@@ -1,5 +1,5 @@
 # econometrics1
-Proofs, checks, simulations, etc. For the course Econometrics 1 (FEB22004X). Complementing content of the book with own insights. All errors are mine
+Proofs, checks, simulations, etc. For the course Econometrics 1 (FEB22004X). Complementing contents from the book with own insights. All errors are mine
 
 
 Source: 
